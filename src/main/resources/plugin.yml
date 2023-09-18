@@ -1,0 +1,4 @@
+name: Violett
+version: '${project.version}'
+main: world.leafmc.violett.Violett
+api-version: 1.19
